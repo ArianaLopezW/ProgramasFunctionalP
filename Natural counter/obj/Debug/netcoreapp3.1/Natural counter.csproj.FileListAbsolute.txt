@@ -1,0 +1,13 @@
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\Natural counter\bin\Debug\netcoreapp3.1\Natural counter.exe
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\Natural counter\bin\Debug\netcoreapp3.1\Natural counter.deps.json
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\Natural counter\bin\Debug\netcoreapp3.1\Natural counter.runtimeconfig.json
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\Natural counter\bin\Debug\netcoreapp3.1\Natural counter.runtimeconfig.dev.json
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\Natural counter\bin\Debug\netcoreapp3.1\Natural counter.dll
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\Natural counter\bin\Debug\netcoreapp3.1\Natural counter.pdb
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\Natural counter\obj\Debug\netcoreapp3.1\Natural counter.csprojAssemblyReference.cache
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\Natural counter\obj\Debug\netcoreapp3.1\Natural counter.AssemblyInfoInputs.cache
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\Natural counter\obj\Debug\netcoreapp3.1\Natural counter.AssemblyInfo.cs
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\Natural counter\obj\Debug\netcoreapp3.1\Natural counter.csproj.CoreCompileInputs.cache
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\Natural counter\obj\Debug\netcoreapp3.1\Natural counter.dll
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\Natural counter\obj\Debug\netcoreapp3.1\Natural counter.pdb
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\Natural counter\obj\Debug\netcoreapp3.1\Natural counter.genruntimeconfig.cache

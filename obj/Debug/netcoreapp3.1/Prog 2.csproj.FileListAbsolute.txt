@@ -1,0 +1,13 @@
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\bin\Debug\netcoreapp3.1\Prog 2.exe
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\bin\Debug\netcoreapp3.1\Prog 2.deps.json
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\bin\Debug\netcoreapp3.1\Prog 2.runtimeconfig.json
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\bin\Debug\netcoreapp3.1\Prog 2.runtimeconfig.dev.json
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\bin\Debug\netcoreapp3.1\Prog 2.dll
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\bin\Debug\netcoreapp3.1\Prog 2.pdb
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\obj\Debug\netcoreapp3.1\Prog 2.csprojAssemblyReference.cache
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\obj\Debug\netcoreapp3.1\Prog 2.AssemblyInfoInputs.cache
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\obj\Debug\netcoreapp3.1\Prog 2.AssemblyInfo.cs
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\obj\Debug\netcoreapp3.1\Prog 2.csproj.CoreCompileInputs.cache
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\obj\Debug\netcoreapp3.1\Prog 2.dll
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\obj\Debug\netcoreapp3.1\Prog 2.pdb
+C:\Users\Ariana Lopez Ward\Prog 2\ContadorFibo\obj\Debug\netcoreapp3.1\Prog 2.genruntimeconfig.cache
